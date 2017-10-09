@@ -10,6 +10,7 @@ class Pogram extends CI_Controller {
   function index(){
        $data['title'] = "Program-KiteBd";
         $this->load->view('inc/header', $data);
+         $this->load->view('inc/header-slider');
         $this->load->view('program');
         $this->load->view('inc/footer', $data);
    

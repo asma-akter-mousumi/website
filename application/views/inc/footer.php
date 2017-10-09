@@ -42,7 +42,8 @@
             <div class="row" style="background-color: #333">
           
                 <div class="col-md-6">      <p style="color:white;text-align: center;font-size: 26px;text-transform: uppercase;padding-top: 10px">&copy kite Bangladesh Limited</p></div>
-                <div class="col-md-6"> <ul class="social_media pull-right">
+                <div class="col-md-6"> 
+                    <ul class="social_media pull-right">
                     <li><div style="width: 40px;
                              height: 40px;
                              border-radius: 50%;
@@ -73,7 +74,8 @@
                              background-color: red;padding-top: 10px;
                              padding-left: 5px;"><a href="" style="color:white"><i class="fa fa-youtube "> </i></a> </div>
                     </li>
-                </ul></div>
+                </ul>
+                </div>
                
 
 

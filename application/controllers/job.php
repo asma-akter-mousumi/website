@@ -1,13 +1,13 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Product extends CI_Controller {
+class Job extends CI_Controller {
   
   function index(){
-  $data['title'] = "Product-KiteBd";
+$data['title'] = "team-KiteBd";
         $this->load->view('inc/header', $data);
-        $this->load->view('inc/header-slider');
-        $this->load->view('product');
+        $this->load->view('inc/header-slider', $data);
+        $this->load->view('job');
         $this->load->view('inc/footer', $data);
     }    
 }

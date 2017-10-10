@@ -14,7 +14,7 @@
         <title><?php echo isset($title) ? $title : "kite" ?> </title>
     </head>
     <body style="font-family: Rockwell Condensed;font-size: 20px;overflow-x: hidden;position: relative">
-        <nav class="navbar navbar-default navbar-fixed-top" style="padding: 20px;background-color: #679467">
+        <nav class="navbar navbar-default navbar-fixed-top" style="padding: 20px;background-color: #5a4f5f">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">

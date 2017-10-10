@@ -12,7 +12,7 @@
         <div class="col-md-4" style="position:relative">
             <div style="left: 66%;
     position: absolute;
-    top: 34px;border: solid 1px  gray;padding: 2px;color: red">No position Now</div>
+    top: 34px;border: solid 1px  gray;padding: 2px;"><a href="<?php echo base_url('job/job_details')?>" style="color: green">Open Now</a></div>
             <div style="text-align: center;border:solid 1px gray;padding: 30px">
                 <h1>Regular jobs</h1>
                 <span>Choose a job you love, and you will never have to work a day in your life.
